@@ -4,31 +4,36 @@
       "id": "perbaikan-rumah",
       "name": "Perbaikan Rumah",
       "icon": "🔧",
-      "description": "Tips dan trik memperbaiki dan merawat rumah"
+      "description": "Tips dan trik memperbaiki dan merawat rumah",
+      "imageUrl": "https://images.unsplash.com/photo-1581147036324-5e0f9e44f5a9?w=600"
     },
     {
       "id": "perawatan-bayi",
       "name": "Perawatan Bayi",
       "icon": "👶",
-      "description": "Panduan merawat si kecil untuk ayah baru"
+      "description": "Panduan merawat si kecil untuk ayah baru",
+      "imageUrl": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=600"
     },
     {
       "id": "dokumen-admin",
       "name": "Dokumen & Administrasi",
       "icon": "📋",
-      "description": "Urusan surat-menyurat dan administrasi keluarga"
+      "description": "Urusan surat-menyurat dan administrasi keluarga",
+      "imageUrl": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600"
     },
     {
       "id": "dapur-memasak",
       "name": "Dapur & Memasak",
       "icon": "🍳",
-      "description": "Resep dan teknik memasak untuk bapak"
+      "description": "Resep dan teknik memasak untuk bapak",
+      "imageUrl": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600"
     },
     {
       "id": "berkebun",
       "name": "Berkebun",
       "icon": "🌱",
-      "description": "Panduan berkebun di rumah untuk pemula"
+      "description": "Panduan berkebun di rumah untuk pemula",
+      "imageUrl": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600"
     }
   ],
   "guides": [
@@ -37,15 +42,16 @@
       "title": "Pengenalan Alat Perkakas",
       "categoryId": "perbaikan-rumah",
       "summary": "Mengenal alat-alat perkakas dasar yang wajib dimiliki setiap rumah",
+      "imageUrl": "https://images.unsplash.com/photo-1581147036324-5e0f9e44f5a9?w=600",
       "steps": [
-        "Palu: untuk memaku dan membongkar",
-        "Obeng (+ dan -): untuk memasang dan melepas sekrup",
-        "Tang: untuk memotong kawat dan menjepit benda kecil",
-        "Meteran: untuk mengukur panjang dan lebar",
-        "Gergaji: untuk memotong kayu dan pipa",
-        "Bor listrik: untuk membuat lubang di dinding",
-        "Level: untuk memastikan benda terpasang rata",
-        "Kunci pas dan kunci inggris: untuk mengencangkan baut"
+        { "text": "Palu: untuk memaku dan membongkar", "imageUrl": "https://images.unsplash.com/photo-1581147036324-5e0f9e44f5a9?w=600" },
+        { "text": "Obeng (+ dan -): untuk memasang dan melepas sekrup", "imageUrl": "https://images.unsplash.com/photo-1581147036324-5e0f9e44f5a9?w=600" },
+        { "text": "Tang: untuk memotong kawat dan menjepit benda kecil", "imageUrl": "https://images.unsplash.com/photo-1581147036324-5e0f9e44f5a9?w=600" },
+        { "text": "Meteran: untuk mengukur panjang dan lebar", "imageUrl": "https://images.unsplash.com/photo-1581147036324-5e0f9e44f5a9?w=600" },
+        { "text": "Gergaji: untuk memotong kayu dan pipa", "imageUrl": "https://images.unsplash.com/photo-1581147036324-5e0f9e44f5a9?w=600" },
+        { "text": "Bor listrik: untuk membuat lubang di dinding", "imageUrl": "https://images.unsplash.com/photo-1581147036324-5e0f9e44f5a9?w=600" },
+        { "text": "Level: untuk memastikan benda terpasang rata", "imageUrl": "https://images.unsplash.com/photo-1581147036324-5e0f9e44f5a9?w=600" },
+        { "text": "Kunci pas dan kunci inggris: untuk mengencangkan baut", "imageUrl": "https://images.unsplash.com/photo-1581147036324-5e0f9e44f5a9?w=600" }
       ],
       "tips": [
         "Beli alat yang berkualitas, jangan yang paling murah",
@@ -58,17 +64,18 @@
       "title": "Cara Cat Rumah",
       "categoryId": "perbaikan-rumah",
       "summary": "Panduan mengecat dinding rumah untuk pemula dari persiapan hingga finishing",
+      "imageUrl": "https://images.unsplash.com/photo-1562259929-b4e1fd3aef09?w=600",
       "steps": [
-        "Siapkan alat: kuas, roller, cat, nampan cat, lakban, amplas",
-        "Bersihkan dinding dari debu dan kotoran",
-        "Tutup lantai dan furnitur dengan plastik atau koran",
-        "Tempel lakban di area yang tidak ingin terkena cat (listing, saklar)",
-        "Amplas dinding yang kasar atau berlubang, lalu bersihkan",
-        "Aplikasikan cat dasar (primer) jika perlu",
-        "Aduk cat hingga rata, tuang ke nampan cat",
-        "Cat dengan roller untuk area luas, kuas untuk sudut dan tepi",
-        "Tunggu kering (2-4 jam), lalu aplikasikan lapisan kedua",
-        "Lepas lakban sebelum cat benar-benar kering"
+        { "text": "Siapkan alat: kuas, roller, cat, nampan cat, lakban, amplas", "imageUrl": "https://images.unsplash.com/photo-1562259929-b4e1fd3aef09?w=600" },
+        { "text": "Bersihkan dinding dari debu dan kotoran", "imageUrl": "https://images.unsplash.com/photo-1562259929-b4e1fd3aef09?w=600" },
+        { "text": "Tutup lantai dan furnitur dengan plastik atau koran", "imageUrl": "https://images.unsplash.com/photo-1562259929-b4e1fd3aef09?w=600" },
+        { "text": "Tempel lakban di area yang tidak ingin terkena cat (listing, saklar)", "imageUrl": "https://images.unsplash.com/photo-1562259929-b4e1fd3aef09?w=600" },
+        { "text": "Amplas dinding yang kasar atau berlubang, lalu bersihkan", "imageUrl": "https://images.unsplash.com/photo-1562259929-b4e1fd3aef09?w=600" },
+        { "text": "Aplikasikan cat dasar (primer) jika perlu", "imageUrl": "https://images.unsplash.com/photo-1562259929-b4e1fd3aef09?w=600" },
+        { "text": "Aduk cat hingga rata, tuang ke nampan cat", "imageUrl": "https://images.unsplash.com/photo-1562259929-b4e1fd3aef09?w=600" },
+        { "text": "Cat dengan roller untuk area luas, kuas untuk sudut dan tepi", "imageUrl": "https://images.unsplash.com/photo-1562259929-b4e1fd3aef09?w=600" },
+        { "text": "Tunggu kering (2-4 jam), lalu aplikasikan lapisan kedua", "imageUrl": "https://images.unsplash.com/photo-1562259929-b4e1fd3aef09?w=600" },
+        { "text": "Lepas lakban sebelum cat benar-benar kering", "imageUrl": "https://images.unsplash.com/photo-1562259929-b4e1fd3aef09?w=600" }
       ],
       "tips": [
         "Gunakan cat berkualitas baik agar hasil lebih tahan lama",
@@ -82,16 +89,17 @@
       "title": "Cara Paku Dinding",
       "categoryId": "perbaikan-rumah",
       "summary": "Teknik memaku dinding yang benar agar rapi dan tidak retak",
+      "imageUrl": "https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?w=600",
       "steps": [
-        "Tentukan posisi yang tepat dan tandai dengan pensil",
-        "Pilih paku atau anchor yang sesuai dengan jenis dinding",
-        "Untuk dinding bata: gunakan paku beton atau rawlplug",
-        "Untuk dinding gypsum: gunakan anchor khusus gypsum",
-        "Bor lubang sesuai ukuran anchor jika perlu",
-        "Masukkan rawlplug ke lubang",
-        "Posisikan benda yang akan digantung",
-        "Paku atau sekrup dengan hati-hati",
-        "Periksa kerataan menggunakan level"
+        { "text": "Tentukan posisi yang tepat dan tandai dengan pensil", "imageUrl": "https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?w=600" },
+        { "text": "Pilih paku atau anchor yang sesuai dengan jenis dinding", "imageUrl": "https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?w=600" },
+        { "text": "Untuk dinding bata: gunakan paku beton atau rawlplug", "imageUrl": "https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?w=600" },
+        { "text": "Untuk dinding gypsum: gunakan anchor khusus gypsum", "imageUrl": "https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?w=600" },
+        { "text": "Bor lubang sesuai ukuran anchor jika perlu", "imageUrl": "https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?w=600" },
+        { "text": "Masukkan rawlplug ke lubang", "imageUrl": "https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?w=600" },
+        { "text": "Posisikan benda yang akan digantung", "imageUrl": "https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?w=600" },
+        { "text": "Paku atau sekrup dengan hati-hati", "imageUrl": "https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?w=600" },
+        { "text": "Periksa kerataan menggunakan level", "imageUrl": "https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?w=600" }
       ],
       "tips": [
         "Gunakan detektor kabel sebelum mengebor untuk menghindari kabel listrik",
@@ -104,14 +112,15 @@
       "title": "Cara Menggendong Bayi",
       "categoryId": "perawatan-bayi",
       "summary": "Teknik menggendong bayi yang benar dan aman untuk ayah baru",
+      "imageUrl": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=600",
       "steps": [
-        "Cuci tangan bersih sebelum menggendong",
-        "Dekati bayi dengan tenang, bicara lembut",
-        "Satu tangan menyangga kepala dan leher bayi",
-        "Tangan lain menyangga bokong dan punggung bawah",
-        "Angkat perlahan, dekatkan ke dada",
-        "Pastikan kepala bayi menempel di dada atau pundak",
-        "Topang kepala bayi setiap saat karena otot leher masih lemah"
+        { "text": "Cuci tangan bersih sebelum menggendong", "imageUrl": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=600" },
+        { "text": "Dekati bayi dengan tenang, bicara lembut", "imageUrl": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=600" },
+        { "text": "Satu tangan menyangga kepala dan leher bayi", "imageUrl": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=600" },
+        { "text": "Tangan lain menyangga bokong dan punggung bawah", "imageUrl": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=600" },
+        { "text": "Angkat perlahan, dekatkan ke dada", "imageUrl": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=600" },
+        { "text": "Pastikan kepala bayi menempel di dada atau pundak", "imageUrl": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=600" },
+        { "text": "Topang kepala bayi setiap saat karena otot leher masih lemah", "imageUrl": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=600" }
       ],
       "tips": [
         "Bayi baru lahir belum bisa menopang kepalanya sendiri, selalu sangga kepala",
@@ -124,16 +133,17 @@
       "title": "Cara Memandikan Bayi",
       "categoryId": "perawatan-bayi",
       "summary": "Panduan memandikan bayi baru lahir dengan aman",
+      "imageUrl": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=600",
       "steps": [
-        "Siapkan perlengkapan: handuk, pakaian bersih, popok, sabun bayi, sampo bayi",
-        "Isi bak mandi bayi dengan air hangat (37°C), cek dengan siku",
-        "Letakkan bayi di tempat datar, buka baju dan popok",
-        "Bungkus bayi dengan handuk, bersihkan muka dengan kapas basah",
-        "Mandikan bayi di bak, sangga kepala dan leher",
-        "Basahi tubuh bayi dengan air, sabuni perlahan",
-        "Bilas dengan air bersih, angkat dan bungkus handuk",
-        "Keringkan dengan tepuk-tepuk lembut",
-        "Pakai popok dan pakaian bersih"
+        { "text": "Siapkan perlengkapan: handuk, pakaian bersih, popok, sabun bayi, sampo bayi", "imageUrl": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=600" },
+        { "text": "Isi bak mandi bayi dengan air hangat (37°C), cek dengan siku", "imageUrl": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=600" },
+        { "text": "Letakkan bayi di tempat datar, buka baju dan popok", "imageUrl": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=600" },
+        { "text": "Bungkus bayi dengan handuk, bersihkan muka dengan kapas basah", "imageUrl": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=600" },
+        { "text": "Mandikan bayi di bak, sangga kepala dan leher", "imageUrl": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=600" },
+        { "text": "Basahi tubuh bayi dengan air, sabuni perlahan", "imageUrl": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=600" },
+        { "text": "Bilas dengan air bersih, angkat dan bungkus handuk", "imageUrl": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=600" },
+        { "text": "Keringkan dengan tepuk-tepuk lembut", "imageUrl": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=600" },
+        { "text": "Pakai popok dan pakaian bersih", "imageUrl": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=600" }
       ],
       "tips": [
         "Jangan tinggalkan bayi sendirian di bak mandi",
@@ -146,15 +156,16 @@
       "title": "Cara Membuat Akta Kelahiran",
       "categoryId": "dokumen-admin",
       "summary": "Prosedur lengkap mengurus akta kelahiran anak",
+      "imageUrl": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600",
       "steps": [
-        "Siapkan dokumen: surat keterangan lahir dari dokter/bidan",
-        "Siapkan KK dan KTP kedua orang tua",
-        "Siapkan buku nikah/akta perkawinan",
-        "Datang ke Dinas Kependudukan dan Catatan Sipil (Disdukcapil)",
-        "Ambil nomor antrian dan isi formulir permohonan",
-        "Serahkan dokumen ke petugas",
-        "Tunggu proses verifikasi (biasanya 1-14 hari)",
-        "Ambil akta kelahiran yang sudah jadi"
+        { "text": "Siapkan dokumen: surat keterangan lahir dari dokter/bidan", "imageUrl": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600" },
+        { "text": "Siapkan KK dan KTP kedua orang tua", "imageUrl": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600" },
+        { "text": "Siapkan buku nikah/akta perkawinan", "imageUrl": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600" },
+        { "text": "Datang ke Dinas Kependudukan dan Catatan Sipil (Disdukcapil)", "imageUrl": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600" },
+        { "text": "Ambil nomor antrian dan isi formulir permohonan", "imageUrl": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600" },
+        { "text": "Serahkan dokumen ke petugas", "imageUrl": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600" },
+        { "text": "Tunggu proses verifikasi (biasanya 1-14 hari)", "imageUrl": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600" },
+        { "text": "Ambil akta kelahiran yang sudah jadi", "imageUrl": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600" }
       ],
       "tips": [
         "Urus dalam waktu 60 hari setelah kelahiran untuk gratis",
@@ -167,14 +178,15 @@
       "title": "Cara Mengurus KK Baru",
       "categoryId": "dokumen-admin",
       "summary": "Panduan menambahkan anggota keluarga baru ke Kartu Keluarga",
+      "imageUrl": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600",
       "steps": [
-        "Siapkan KK lama dan KTP seluruh anggota keluarga",
-        "Siapkan akta kelahiran anak",
-        "Siapkan buku nikah/akta perkawinan",
-        "Datang ke kantor Disdukcapil atau kelurahan",
-        "Isi formulir perubahan KK",
-        "Serahkan dokumen dan tunggu proses",
-        "Terima KK baru yang sudah diperbarui"
+        { "text": "Siapkan KK lama dan KTP seluruh anggota keluarga", "imageUrl": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600" },
+        { "text": "Siapkan akta kelahiran anak", "imageUrl": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600" },
+        { "text": "Siapkan buku nikah/akta perkawinan", "imageUrl": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600" },
+        { "text": "Datang ke kantor Disdukcapil atau kelurahan", "imageUrl": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600" },
+        { "text": "Isi formulir perubahan KK", "imageUrl": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600" },
+        { "text": "Serahkan dokumen dan tunggu proses", "imageUrl": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600" },
+        { "text": "Terima KK baru yang sudah diperbarui", "imageUrl": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600" }
       ],
       "tips": [
         "Proses biasanya 3-7 hari kerja",
@@ -187,16 +199,17 @@
       "title": "Cara Masak Nasi Goreng",
       "categoryId": "dapur-memasak",
       "summary": "Resep nasi goreng sederhana yang anti gagal untuk bapak",
+      "imageUrl": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=600",
       "steps": [
-        "Siapkan bahan: nasi putih (nasi kemarin lebih baik), 2 siung bawang putih, 3 siung bawang merah, 1 butir telur, kecap manis, garam, merica",
-        "Iris halus bawang putih dan bawang merah",
-        "Panaskan wajan dengan minyak goreng atau margarin",
-        "Tumis bawang hingga harum",
-        "Masukkan telur, orak-arik hingga matang",
-        "Masukkan nasi, aduk rata dengan tumisan",
-        "Tambahkan kecap manis, garam, dan merica secukupnya",
-        "Aduk hingga semua bumbu merata dan nasi panas",
-        "Sajikan dengan pelengkap: kerupuk, irisan timun, tomat"
+        { "text": "Siapkan bahan: nasi putih, bawang putih, bawang merah, telur, kecap manis, garam, merica", "imageUrl": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=600" },
+        { "text": "Iris halus bawang putih dan bawang merah", "imageUrl": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=600" },
+        { "text": "Panaskan wajan dengan minyak goreng atau margarin", "imageUrl": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=600" },
+        { "text": "Tumis bawang hingga harum", "imageUrl": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=600" },
+        { "text": "Masukkan telur, orak-arik hingga matang", "imageUrl": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=600" },
+        { "text": "Masukkan nasi, aduk rata dengan tumisan", "imageUrl": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=600" },
+        { "text": "Tambahkan kecap manis, garam, dan merica secukupnya", "imageUrl": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=600" },
+        { "text": "Aduk hingga semua bumbu merata dan nasi panas", "imageUrl": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=600" },
+        { "text": "Sajikan dengan pelengkap: kerupuk, irisan timun, tomat", "imageUrl": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=600" }
       ],
       "tips": [
         "Gunakan nasi yang sudah didinginkan semalaman agar tidak lengket",
@@ -209,17 +222,18 @@
       "title": "Cara Menanam Cabai di Pot",
       "categoryId": "berkebun",
       "summary": "Panduan menanam cabai dalam pot untuk pemula",
+      "imageUrl": "https://images.unsplash.com/photo-1754994641900-f5bfbdb88e63?w=600",
       "steps": [
-        "Siapkan pot berdiameter minimal 20cm dengan lubang drainase",
-        "Siapkan bibit cabai (biji atau bibit siap tanam)",
-        "Siapkan media tanam: tanah, pupuk kandang, sekam (2:1:1)",
-        "Isi pot dengan media tanam hingga 3/4 penuh",
-        "Tanam bibit cabai sedalam 1-2 cm",
-        "Siram secukupnya, jangan sampai tergenang",
-        "Letakkan pot di tempat terkena sinar matahari langsung",
-        "Siram setiap hari (pagi atau sore)",
-        "Beri pupuk tambahan setiap 2 minggu",
-        "Panen cabai setelah 70-90 hari"
+        { "text": "Siapkan pot berdiameter minimal 20cm dengan lubang drainase", "imageUrl": "https://images.unsplash.com/photo-1754994641900-f5bfbdb88e63?w=600" },
+        { "text": "Siapkan bibit cabai (biji atau bibit siap tanam)", "imageUrl": "https://images.unsplash.com/photo-1754994641900-f5bfbdb88e63?w=600" },
+        { "text": "Siapkan media tanam: tanah, pupuk kandang, sekam (2:1:1)", "imageUrl": "https://images.unsplash.com/photo-1754994641900-f5bfbdb88e63?w=600" },
+        { "text": "Isi pot dengan media tanam hingga 3/4 penuh", "imageUrl": "https://images.unsplash.com/photo-1754994641900-f5bfbdb88e63?w=600" },
+        { "text": "Tanam bibit cabai sedalam 1-2 cm", "imageUrl": "https://images.unsplash.com/photo-1754994641900-f5bfbdb88e63?w=600" },
+        { "text": "Siram secukupnya, jangan sampai tergenang", "imageUrl": "https://images.unsplash.com/photo-1754994641900-f5bfbdb88e63?w=600" },
+        { "text": "Letakkan pot di tempat terkena sinar matahari langsung", "imageUrl": "https://images.unsplash.com/photo-1754994641900-f5bfbdb88e63?w=600" },
+        { "text": "Siram setiap hari (pagi atau sore)", "imageUrl": "https://images.unsplash.com/photo-1754994641900-f5bfbdb88e63?w=600" },
+        { "text": "Beri pupuk tambahan setiap 2 minggu", "imageUrl": "https://images.unsplash.com/photo-1754994641900-f5bfbdb88e63?w=600" },
+        { "text": "Panen cabai setelah 70-90 hari", "imageUrl": "https://images.unsplash.com/photo-1754994641900-f5bfbdb88e63?w=600" }
       ],
       "tips": [
         "Jangan terlalu banyak menyiram, cabai tidak suka air berlebih",
