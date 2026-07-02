@@ -1,0 +1,231 @@
+{
+  "categories": [
+    {
+      "id": "perbaikan-rumah",
+      "name": "Perbaikan Rumah",
+      "icon": "🔧",
+      "description": "Tips dan trik memperbaiki dan merawat rumah"
+    },
+    {
+      "id": "perawatan-bayi",
+      "name": "Perawatan Bayi",
+      "icon": "👶",
+      "description": "Panduan merawat si kecil untuk ayah baru"
+    },
+    {
+      "id": "dokumen-admin",
+      "name": "Dokumen & Administrasi",
+      "icon": "📋",
+      "description": "Urusan surat-menyurat dan administrasi keluarga"
+    },
+    {
+      "id": "dapur-memasak",
+      "name": "Dapur & Memasak",
+      "icon": "🍳",
+      "description": "Resep dan teknik memasak untuk bapak"
+    },
+    {
+      "id": "berkebun",
+      "name": "Berkebun",
+      "icon": "🌱",
+      "description": "Panduan berkebun di rumah untuk pemula"
+    }
+  ],
+  "guides": [
+    {
+      "id": "pengenalan-alat-perkakas",
+      "title": "Pengenalan Alat Perkakas",
+      "categoryId": "perbaikan-rumah",
+      "summary": "Mengenal alat-alat perkakas dasar yang wajib dimiliki setiap rumah",
+      "steps": [
+        "Palu: untuk memaku dan membongkar",
+        "Obeng (+ dan -): untuk memasang dan melepas sekrup",
+        "Tang: untuk memotong kawat dan menjepit benda kecil",
+        "Meteran: untuk mengukur panjang dan lebar",
+        "Gergaji: untuk memotong kayu dan pipa",
+        "Bor listrik: untuk membuat lubang di dinding",
+        "Level: untuk memastikan benda terpasang rata",
+        "Kunci pas dan kunci inggris: untuk mengencangkan baut"
+      ],
+      "tips": [
+        "Beli alat yang berkualitas, jangan yang paling murah",
+        "Simpan alat di tempat kering dan terorganisir",
+        "Bersihkan alat setelah dipakai agar awet"
+      ]
+    },
+    {
+      "id": "cara-cat-rumah",
+      "title": "Cara Cat Rumah",
+      "categoryId": "perbaikan-rumah",
+      "summary": "Panduan mengecat dinding rumah untuk pemula dari persiapan hingga finishing",
+      "steps": [
+        "Siapkan alat: kuas, roller, cat, nampan cat, lakban, amplas",
+        "Bersihkan dinding dari debu dan kotoran",
+        "Tutup lantai dan furnitur dengan plastik atau koran",
+        "Tempel lakban di area yang tidak ingin terkena cat (listing, saklar)",
+        "Amplas dinding yang kasar atau berlubang, lalu bersihkan",
+        "Aplikasikan cat dasar (primer) jika perlu",
+        "Aduk cat hingga rata, tuang ke nampan cat",
+        "Cat dengan roller untuk area luas, kuas untuk sudut dan tepi",
+        "Tunggu kering (2-4 jam), lalu aplikasikan lapisan kedua",
+        "Lepas lakban sebelum cat benar-benar kering"
+      ],
+      "tips": [
+        "Gunakan cat berkualitas baik agar hasil lebih tahan lama",
+        "Cat dalam kondisi cuaca cerah dan tidak lembab",
+        "Mulai cat dari atas ke bawah untuk menghindari tetesan",
+        "Beli cat lebih 10% dari perhitungan untuk cadangan"
+      ]
+    },
+    {
+      "id": "cara-paku-dinding",
+      "title": "Cara Paku Dinding",
+      "categoryId": "perbaikan-rumah",
+      "summary": "Teknik memaku dinding yang benar agar rapi dan tidak retak",
+      "steps": [
+        "Tentukan posisi yang tepat dan tandai dengan pensil",
+        "Pilih paku atau anchor yang sesuai dengan jenis dinding",
+        "Untuk dinding bata: gunakan paku beton atau rawlplug",
+        "Untuk dinding gypsum: gunakan anchor khusus gypsum",
+        "Bor lubang sesuai ukuran anchor jika perlu",
+        "Masukkan rawlplug ke lubang",
+        "Posisikan benda yang akan digantung",
+        "Paku atau sekrup dengan hati-hati",
+        "Periksa kerataan menggunakan level"
+      ],
+      "tips": [
+        "Gunakan detektor kabel sebelum mengebor untuk menghindari kabel listrik",
+        "Untuk benda berat, gunakan 2 paku/anchor agar kuat",
+        "Jika salah posisi, lubang bekas bisa ditutup dempul"
+      ]
+    },
+    {
+      "id": "cara-menggendong-bayi",
+      "title": "Cara Menggendong Bayi",
+      "categoryId": "perawatan-bayi",
+      "summary": "Teknik menggendong bayi yang benar dan aman untuk ayah baru",
+      "steps": [
+        "Cuci tangan bersih sebelum menggendong",
+        "Dekati bayi dengan tenang, bicara lembut",
+        "Satu tangan menyangga kepala dan leher bayi",
+        "Tangan lain menyangga bokong dan punggung bawah",
+        "Angkat perlahan, dekatkan ke dada",
+        "Pastikan kepala bayi menempel di dada atau pundak",
+        "Topang kepala bayi setiap saat karena otot leher masih lemah"
+      ],
+      "tips": [
+        "Bayi baru lahir belum bisa menopang kepalanya sendiri, selalu sangga kepala",
+        "Gunakan baby sling atau gendongan untuk tangan lebih bebas",
+        "Posisi cradle hold (dipeluk) paling nyaman untuk bonding"
+      ]
+    },
+    {
+      "id": "cara-memandikan-bayi",
+      "title": "Cara Memandikan Bayi",
+      "categoryId": "perawatan-bayi",
+      "summary": "Panduan memandikan bayi baru lahir dengan aman",
+      "steps": [
+        "Siapkan perlengkapan: handuk, pakaian bersih, popok, sabun bayi, sampo bayi",
+        "Isi bak mandi bayi dengan air hangat (37°C), cek dengan siku",
+        "Letakkan bayi di tempat datar, buka baju dan popok",
+        "Bungkus bayi dengan handuk, bersihkan muka dengan kapas basah",
+        "Mandikan bayi di bak, sangga kepala dan leher",
+        "Basahi tubuh bayi dengan air, sabuni perlahan",
+        "Bilas dengan air bersih, angkat dan bungkus handuk",
+        "Keringkan dengan tepuk-tepuk lembut",
+        "Pakai popok dan pakaian bersih"
+      ],
+      "tips": [
+        "Jangan tinggalkan bayi sendirian di bak mandi",
+        "Pastikan suhu air tidak terlalu panas atau dingin",
+        "Waktu mandi ideal 5-10 menit, jangan terlalu lama"
+      ]
+    },
+    {
+      "id": "cara-membuat-akta-kelahiran",
+      "title": "Cara Membuat Akta Kelahiran",
+      "categoryId": "dokumen-admin",
+      "summary": "Prosedur lengkap mengurus akta kelahiran anak",
+      "steps": [
+        "Siapkan dokumen: surat keterangan lahir dari dokter/bidan",
+        "Siapkan KK dan KTP kedua orang tua",
+        "Siapkan buku nikah/akta perkawinan",
+        "Datang ke Dinas Kependudukan dan Catatan Sipil (Disdukcapil)",
+        "Ambil nomor antrian dan isi formulir permohonan",
+        "Serahkan dokumen ke petugas",
+        "Tunggu proses verifikasi (biasanya 1-14 hari)",
+        "Ambil akta kelahiran yang sudah jadi"
+      ],
+      "tips": [
+        "Urus dalam waktu 60 hari setelah kelahiran untuk gratis",
+        "Lebih dari 60 hari akan dikenakan biaya",
+        "Beberapa daerah sudah menyediakan layanan online"
+      ]
+    },
+    {
+      "id": "cara-mengurus-kk-baru",
+      "title": "Cara Mengurus KK Baru",
+      "categoryId": "dokumen-admin",
+      "summary": "Panduan menambahkan anggota keluarga baru ke Kartu Keluarga",
+      "steps": [
+        "Siapkan KK lama dan KTP seluruh anggota keluarga",
+        "Siapkan akta kelahiran anak",
+        "Siapkan buku nikah/akta perkawinan",
+        "Datang ke kantor Disdukcapil atau kelurahan",
+        "Isi formulir perubahan KK",
+        "Serahkan dokumen dan tunggu proses",
+        "Terima KK baru yang sudah diperbarui"
+      ],
+      "tips": [
+        "Proses biasanya 3-7 hari kerja",
+        "Cek jadwal layanan keliling Disdukcapil di daerah kamu",
+        "Simpan KK baru di tempat aman, scan sebagai cadangan"
+      ]
+    },
+    {
+      "id": "cara-masak-nasi-goreng",
+      "title": "Cara Masak Nasi Goreng",
+      "categoryId": "dapur-memasak",
+      "summary": "Resep nasi goreng sederhana yang anti gagal untuk bapak",
+      "steps": [
+        "Siapkan bahan: nasi putih (nasi kemarin lebih baik), 2 siung bawang putih, 3 siung bawang merah, 1 butir telur, kecap manis, garam, merica",
+        "Iris halus bawang putih dan bawang merah",
+        "Panaskan wajan dengan minyak goreng atau margarin",
+        "Tumis bawang hingga harum",
+        "Masukkan telur, orak-arik hingga matang",
+        "Masukkan nasi, aduk rata dengan tumisan",
+        "Tambahkan kecap manis, garam, dan merica secukupnya",
+        "Aduk hingga semua bumbu merata dan nasi panas",
+        "Sajikan dengan pelengkap: kerupuk, irisan timun, tomat"
+      ],
+      "tips": [
+        "Gunakan nasi yang sudah didinginkan semalaman agar tidak lengket",
+        "Api besar saat menggoreng agar nasi tidak lembek",
+        "Tambahkan bawang goreng di atasnya untuk rasa lebih mantap"
+      ]
+    },
+    {
+      "id": "cara-menanam-cabai",
+      "title": "Cara Menanam Cabai di Pot",
+      "categoryId": "berkebun",
+      "summary": "Panduan menanam cabai dalam pot untuk pemula",
+      "steps": [
+        "Siapkan pot berdiameter minimal 20cm dengan lubang drainase",
+        "Siapkan bibit cabai (biji atau bibit siap tanam)",
+        "Siapkan media tanam: tanah, pupuk kandang, sekam (2:1:1)",
+        "Isi pot dengan media tanam hingga 3/4 penuh",
+        "Tanam bibit cabai sedalam 1-2 cm",
+        "Siram secukupnya, jangan sampai tergenang",
+        "Letakkan pot di tempat terkena sinar matahari langsung",
+        "Siram setiap hari (pagi atau sore)",
+        "Beri pupuk tambahan setiap 2 minggu",
+        "Panen cabai setelah 70-90 hari"
+      ],
+      "tips": [
+        "Jangan terlalu banyak menyiram, cabai tidak suka air berlebih",
+        "Jika ada hama, gunakan pestisida alami dari bawang putih",
+        "Pangkas daun yang terlalu rimbun agar buah lebih maksimal"
+      ]
+    }
+  ]
+}
